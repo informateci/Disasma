@@ -11,6 +11,7 @@ html_data_template      = """
     <br/>
 """
 
+
 html_data_char_template = """
     <div class="row">
     <div class="toggle" onclick="sv.viewAs(\'C\', %d, %d)">D  </div>
